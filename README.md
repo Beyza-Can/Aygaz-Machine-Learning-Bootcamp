@@ -34,6 +34,8 @@ fradulent
 Since this dataset columns were having text columns i have to do some vectorization(TF-IDF vectorization to be specific) to 
 convert text data into numerical format suitable for machine learning models.
 
+My dataset definitely needs a supervised algorithm because it needs a classification.So this dataset is not a suitable one for an unsupervised algorithm adventure.
+
 Other than that i used some EDA and plots.You can review other details on the notebook.
 
 If you have any kind of questions you can reach me at byzcnkrtrn@gmail.com
