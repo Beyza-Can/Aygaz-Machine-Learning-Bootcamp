@@ -36,6 +36,29 @@ convert text data into numerical format suitable for machine learning models.
 
 My dataset definitely needs a supervised algorithm because it needs a classification.So this dataset is not a suitable one for an unsupervised algorithm adventure.
 
+Since the guide says this readme needs a final output heres the results:
+
+
+For random forest:
+
+
+![random forest](https://github.com/user-attachments/assets/734cc05c-017f-4f85-a066-1dc204b88d8f)
+
+
+For logistic regression:(by the way i used both the supervised algorithms because they both ran with great accuracies)
+
+
+![logreg](https://github.com/user-attachments/assets/899b8e45-dffc-4ad1-bfe9-f51286bb61b5)
+
+
+For k-means:(the sihoutte score is the final output)
+
+
+![k-means](https://github.com/user-attachments/assets/6998ddbc-e33f-4b00-a342-14efd5649e1c)
+
+
+I didnt use the elbow method because like i said in the above i tried to do a classification.
+
 Other than that i used some EDA and plots.You can review other details on the notebook.
 
 If you have any kind of questions you can reach me at byzcnkrtrn@gmail.com
